@@ -134,7 +134,7 @@
                 <td>A</td>
                 <td>99</td>
                 <td>Form 4</td>
-                <td class="marks">95</td>
+                <td class="marks">99</td>
             </tr>
             <tr>
                 <td>M-S WORD</td>
@@ -148,14 +148,14 @@
                 <td>B</td>
                 <td>99</td>
                 <td>Form 4</td>
-                <td class="marks">88</td>
+                <td class="marks">99</td>
             </tr>
             <tr>
                 <td>M-S POWER POINT</td>
                 <td>A</td>
                 <td>95</td>
                 <td>Form 4</td>
-                <td class="marks">92</td>
+                <td class="marks">99</td>
             </tr>
         </table>
     </div>
