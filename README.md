@@ -115,7 +115,8 @@
     </div>
     
     <div class="id-section">
-        <img src="MAN.JPG" alt="MAN.JPG"> <!-- Beddel halkan sawirka -->
+        <img src="MAN.JPG"
+        alt="MAN.JPG"> <!-- Beddel halkan sawirka -->
         <H1>Mohamed Abdulkadir Mohamed</H1>
         <p>ID NO: 0021</p>
     </div>
@@ -134,28 +135,28 @@
                 <td>A</td>
                 <td>99</td>
                 <td>Form 4</td>
-                <td class="marks">99</td>
+                <td class="marks">9</td>
             </tr>
             <tr>
                 <td>M-S WORD</td>
                 <td>B</td>
                 <td>99</td>
                 <td>Form 4</td>
-                <td class="marks">99</td>
+                <td class="marks">9</td>
             </tr>
             <tr>
                 <td>M-S EXCEL</td>
                 <td>B</td>
                 <td>99</td>
                 <td>Form 4</td>
-                <td class="marks">99</td>
+                <td class="marks">9</td>
             </tr>
             <tr>
                 <td>M-S POWER POINT</td>
                 <td>A</td>
                 <td>95</td>
                 <td>Form 4</td>
-                <td class="marks">99</td>
+                <td class="marks">9</td>
             </tr>
         </table>
     </div>
