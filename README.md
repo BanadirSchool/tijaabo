@@ -132,21 +132,21 @@
             <tr>
                 <td>WINDOW 10</td>
                 <td>A</td>
-                <td>90</td>
+                <td>99</td>
                 <td>Form 4</td>
                 <td class="marks">95</td>
             </tr>
             <tr>
                 <td>M-S WORD</td>
                 <td>B</td>
-                <td>80</td>
+                <td>99</td>
                 <td>Form 4</td>
-                <td class="marks">85</td>
+                <td class="marks">99</td>
             </tr>
             <tr>
                 <td>M-S EXCEL</td>
                 <td>B</td>
-                <td>85</td>
+                <td>99</td>
                 <td>Form 4</td>
                 <td class="marks">88</td>
             </tr>
